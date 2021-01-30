@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
-	<meta charset = "UTF-8">
-	<link href = "personastyle.css" rel = "stylesheet" type = "text/css"/>
-	<title>Personal page</title>
-	</head>
+
 
 	<body>
 
@@ -40,4 +34,4 @@
 
 
 	</body>
-</html>
+
